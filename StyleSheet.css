@@ -1,0 +1,19 @@
+#Text {
+    color: white;
+}
+
+body {
+    background-color: #023458;
+}
+
+a:link {
+    color: paleturquoise;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: magenta;
+    background-color: transparent;
+    text-decoration: underline;
+}
