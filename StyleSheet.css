@@ -2,6 +2,11 @@
     color: white;
 }
 
+#Greeting {
+    color: white;
+    text-align: center;
+}
+
 body {
     background-color: #023458;
 }
@@ -16,4 +21,9 @@ a:visited {
     color: magenta;
     background-color: transparent;
     text-decoration: underline;
+}
+
+#Title_Text {
+    color: white;
+    text-align: center;
 }
