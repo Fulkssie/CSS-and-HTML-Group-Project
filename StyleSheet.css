@@ -59,6 +59,20 @@ body {
     background-color: #023458;
 }
 
+#wrapper {
+    width: 300px;
+    top: 0px;
+	left: 0px;
+	height: 150px;
+	background-color: #244032;
+	height: 250;
+	border: 1px solid white;
+	outline-style: 	solid;
+	outline-color: 	white;
+	text-align: center;
+	
+}
+
 #Title_Text {
     color: white;
     text-align: center;
