@@ -7,6 +7,10 @@ ul {
     text-align: center;
     list-style:none;                
 }
+ul {
+  text-align: center;
+  color: #c3c3c3;
+}
 #Greeting {
     color: white;
     text-align: center;
