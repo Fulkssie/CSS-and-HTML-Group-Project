@@ -1,7 +1,12 @@
 #Text {
     color: white;
 }
-
+ul {
+    margin:0;
+    padding:0;
+    text-align: center;
+    list-style:none;                
+}
 #Greeting {
     color: white;
     text-align: center;
