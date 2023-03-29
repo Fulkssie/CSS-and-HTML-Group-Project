@@ -79,3 +79,10 @@ header {
 	display: grid;
 	grid-template-columns: auto auto auto;
 }
+
+
+#Symbol {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
