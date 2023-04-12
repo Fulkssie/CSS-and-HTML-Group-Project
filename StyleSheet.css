@@ -15,9 +15,6 @@ ul {
     text-align: center;
     background-color: darkslategrey;
     padding: 24px;
-    border-style: solid;
-    border-color: aliceblue;
-    border-width: 4px;
     margin: 5px;
 }
 
@@ -88,6 +85,7 @@ header {
 #header2 {
     color: white;
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: darkslategrey;
     padding: 24px;
     border-style: solid;
