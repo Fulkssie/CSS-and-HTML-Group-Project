@@ -47,14 +47,13 @@ nav a:hover {
     margin: 5px;
 }
 
-#homepageImage {
-    max-width: 100%;
-    max-height: auto;
-    opacity: 0.7;
-}
-
 #Title_Text {
     text-align: center;
+}
+
+#content {
+    border: 5px solid #767551;
+    padding: 10px;
 }
 
 #header {
@@ -73,13 +72,9 @@ nav a:hover {
 {
 	display: grid;
 	grid-template-columns: auto auto auto;
-}
-
-#about_image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
+    border: 5px solid #767551;
+    padding: 10px;
+    justify-content: center;
 }
 
 .product {
